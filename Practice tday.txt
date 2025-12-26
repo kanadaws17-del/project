@@ -1,0 +1,530 @@
+DevOps Interview Preparation - 15 Week Timetable
+Start Date: December 22, 2025 (Monday)
+Study Time: 4 hours/day (Mon-Fri: 7-11 AM) | Weekend: Recall & Practice
+________________________________________
+Week 1: Linux Fundamentals (Dec 22 - Dec 28)
+Weekdays (Mon-Fri): 7:00 AM - 11:00 AM
+Monday, Dec 22
+•	7:00-8:00 AM: Linux file system, basic commands (ls, cd, pwd, mkdir, rm, cp, mv)
+•	8:00-9:00 AM: File viewing/editing (cat, nano, vim, head, tail, more, less)
+•	9:00-10:00 AM: Practice on Linux VM (Ubuntu/CentOS installation)
+•	10:00-11:00 AM: Exercises - create directories, files, practice commands
+Tuesday, Dec 23
+•	7:00-8:00 AM: File permissions (chmod, chown, umask, ls -l)
+•	8:00-9:00 AM: User management (useradd, usermod, passwd, groups, sudo)
+•	9:00-10:00 AM: Practice permission scenarios
+•	10:00-11:00 AM: Exercises - create users, set permissions, manage groups
+Wednesday, Dec 24
+•	7:00-8:00 AM: Process management (ps, top, htop, kill, bg, fg, jobs)
+•	8:00-9:00 AM: Service management (systemctl, service, enable, disable)
+•	9:00-10:00 AM: Practice process control
+•	10:00-11:00 AM: Exercises - manage services, monitor processes
+Thursday, Dec 25 (Christmas - Light study)
+•	7:00-8:30 AM: Networking commands (ping, ifconfig, ip, netstat, ss, curl, wget)
+•	8:30-10:00 AM: SSH, SCP, remote connections
+•	10:00-11:00 AM: Practice networking exercises
+Friday, Dec 26
+•	7:00-8:00 AM: Package management (apt, yum, dnf, rpm, dpkg)
+•	8:00-9:00 AM: Text processing (grep, sed, awk, cut, sort, uniq, wc)
+•	9:00-10:00 AM: Disk management (df, du, fdisk, mount, umount)
+•	10:00-11:00 AM: Archiving (tar, zip, gzip, bzip2), Cron jobs
+Weekend: Dec 27-28 (Sat-Sun)
+Saturday, Dec 27 (4 hours)
+•	7:00-9:00 AM: Recall all Linux commands learned this week
+•	9:00-11:00 AM: Practice 50+ command exercises, solve scenarios
+Sunday, Dec 28 (4 hours)
+•	7:00-9:00 AM: Week 1 mini-project: Write bash script for system monitoring
+•	9:00-11:00 AM: Practice Linux interview Q&A
+________________________________________
+Week 2: Git & Version Control (Dec 29 - Jan 4)
+Weekdays
+Monday, Dec 29
+•	7:00-8:00 AM: Git basics (init, clone, status, add, commit)
+•	8:00-9:00 AM: Push, pull, fetch, remote
+•	9:00-10:00 AM: Create GitHub account, create first repo
+•	10:00-11:00 AM: Practice basic git workflow
+Tuesday, Dec 30
+•	7:00-8:00 AM: Branching (branch, checkout, switch, -b)
+•	8:00-9:00 AM: Merging basics, merge strategies
+•	9:00-10:00 AM: Practice creating and merging branches
+•	10:00-11:00 AM: Exercises - multiple branch scenarios
+Wednesday, Dec 31 (New Year's Eve)
+•	7:00-8:30 AM: Merge conflicts, conflict resolution
+•	8:30-10:00 AM: Practice merge conflict scenarios
+•	10:00-11:00 AM: Exercises
+Thursday, Jan 1, 2026 (New Year - Holiday, Optional/Light)
+•	7:00-8:30 AM: Rebase, cherry-pick, stash
+•	8:30-10:00 AM: Tags, .gitignore, git log
+•	10:00-11:00 AM: Practice advanced git commands
+Friday, Jan 2
+•	7:00-8:00 AM: GitHub workflows (fork, clone, PR, code review)
+•	8:00-9:00 AM: Git best practices, GitFlow, branching strategies
+•	9:00-10:00 AM: GitHub vs GitLab vs Bitbucket
+•	10:00-11:00 AM: Practice all git commands, review week 2
+Weekend: Jan 3-4
+Saturday, Jan 3
+•	7:00-9:00 AM: Recall all Git commands, branching strategies
+•	9:00-11:00 AM: Create multi-branch project, practice PRs and merges
+Sunday, Jan 4
+•	7:00-9:00 AM: Week 2 project: Collaborate on GitHub repo with branches
+•	9:00-11:00 AM: Git interview Q&A practice
+________________________________________
+Week 3: Bash Scripting (Jan 5 - Jan 11)
+Weekdays
+Monday, Jan 5
+•	7:00-8:00 AM: Bash basics (shebang, variables, echo, read, comments)
+•	8:00-9:00 AM: Conditionals (if, elif, else, case)
+•	9:00-10:00 AM: Write simple conditional scripts
+•	10:00-11:00 AM: Practice exercises
+Tuesday, Jan 6
+•	7:00-8:00 AM: Loops (for, while, until, break, continue)
+•	8:00-9:00 AM: Arrays in bash
+•	9:00-10:00 AM: Functions in bash
+•	10:00-11:00 AM: Practice loops and functions
+Wednesday, Jan 7
+•	7:00-8:00 AM: Script parameters ($1, $2, $@, $#, $?, $$)
+•	8:00-9:00 AM: File operations in scripts (read, write, append)
+•	9:00-10:00 AM: String manipulation
+•	10:00-11:00 AM: Practice file handling scripts
+Thursday, Jan 8
+•	7:00-8:00 AM: Error handling, exit codes, set -e
+•	8:00-9:00 AM: Advanced scripting (getopts, trap, select)
+•	9:00-10:00 AM: Logging, debugging (set -x)
+•	10:00-11:00 AM: Practice advanced scripts
+Friday, Jan 9
+•	7:00-8:00 AM: Cron jobs with scripts, scheduling
+•	8:00-9:00 AM: Real-world automation scripts (backup, monitoring)
+•	9:00-10:00 AM: Log analysis scripts
+•	10:00-11:00 AM: Practice & review week 3
+Weekend: Jan 10-11
+Saturday, Jan 10
+•	7:00-9:00 AM: Recall bash syntax, loops, conditionals, functions
+•	9:00-11:00 AM: Write 10 automation scripts
+Sunday, Jan 11
+•	7:00-9:00 AM: Project: Server monitoring script, automated backup script
+•	9:00-11:00 AM: Bash scripting interview Q&A
+________________________________________
+Week 4: Python for DevOps (Jan 12 - Jan 18)
+Weekdays
+Monday, Jan 12
+•	7:00-8:00 AM: Python basics (variables, data types, operators, input/output)
+•	8:00-9:00 AM: Conditionals and loops (if, for, while)
+•	9:00-10:00 AM: Functions, lambda, modules
+•	10:00-11:00 AM: Practice basic Python coding
+Tuesday, Jan 13
+•	7:00-8:00 AM: File handling (read, write, append, with statement)
+•	8:00-9:00 AM: Exception handling (try, except, finally)
+•	9:00-10:00 AM: Working with JSON, YAML files
+•	10:00-11:00 AM: Practice file operations
+Wednesday, Jan 14
+•	7:00-8:00 AM: OS module (path, environment variables, commands)
+•	8:00-9:00 AM: Subprocess module (running shell commands)
+•	9:00-10:00 AM: sys, datetime, re modules
+•	10:00-11:00 AM: Practice OS automation
+Thursday, Jan 15
+•	7:00-8:00 AM: Requests library (REST API calls, GET, POST)
+•	8:00-9:00 AM: Parse JSON responses, error handling
+•	9:00-10:00 AM: boto3 for AWS automation basics
+•	10:00-11:00 AM: Practice API automation
+Friday, Jan 16
+•	7:00-8:00 AM: boto3 - EC2 operations (start, stop, list instances)
+•	8:00-9:00 AM: boto3 - S3 operations (upload, download, list buckets)
+•	9:00-10:00 AM: Real-world Python DevOps scripts
+•	10:00-11:00 AM: Practice & review week 4
+Weekend: Jan 17-18
+Saturday, Jan 17
+•	7:00-9:00 AM: Recall Python syntax, libraries (os, subprocess, requests)
+•	9:00-11:00 AM: Write automation scripts
+Sunday, Jan 18
+•	7:00-9:00 AM: Project: AWS automation script with boto3
+•	9:00-11:00 AM: Python DevOps interview Q&A
+________________________________________
+Week 5: Jenkins - Part 1 (Jan 19 - Jan 25)
+Weekdays
+Monday, Jan 19
+•	7:00-8:00 AM: Jenkins intro, CI/CD concepts, architecture
+•	8:00-9:00 AM: Jenkins installation (Docker/VM/Local)
+•	9:00-10:00 AM: Jenkins UI walkthrough, dashboard
+•	10:00-11:00 AM: Create first freestyle job
+Tuesday, Jan 20
+•	7:00-8:00 AM: Build triggers (SCM polling, webhooks, manual)
+•	8:00-9:00 AM: Parameterized builds (string, choice, boolean)
+•	9:00-10:00 AM: Build steps, post-build actions
+•	10:00-11:00 AM: Practice creating jobs with different triggers
+Wednesday, Jan 21
+•	7:00-8:00 AM: Jenkins plugins (Git, Maven, Docker, Slack)
+•	8:00-9:00 AM: Installing and configuring plugins
+•	9:00-10:00 AM: Integrate Git with Jenkins
+•	10:00-11:00 AM: Practice jobs with plugins
+Thursday, Jan 22
+•	7:00-8:00 AM: Pipeline basics (Declarative pipeline)
+•	8:00-9:00 AM: Jenkinsfile syntax, structure
+•	9:00-10:00 AM: Stages, steps, agents, when
+•	10:00-11:00 AM: Write first Declarative pipeline
+Friday, Jan 23
+•	7:00-8:00 AM: Pipeline with Git integration
+•	8:00-9:00 AM: Pipeline best practices
+•	9:00-10:00 AM: Environment variables in pipeline
+•	10:00-11:00 AM: Practice pipelines, review week 5
+Weekend: Jan 24-25
+Saturday, Jan 24
+•	7:00-9:00 AM: Recall Jenkins concepts, jobs, pipelines
+•	9:00-11:00 AM: Create multiple jobs and pipelines
+Sunday, Jan 25
+•	7:00-9:00 AM: Project: CI pipeline for Java/Python application
+•	9:00-11:00 AM: Jenkins interview Q&A
+________________________________________
+Week 6: Jenkins - Part 2 & GitHub Actions (Jan 26 - Feb 1)
+Weekdays
+Monday, Jan 26
+•	7:00-8:00 AM: Scripted pipeline syntax
+•	8:00-9:00 AM: Shared libraries basics
+•	9:00-10:00 AM: Master-slave (agent) architecture
+•	10:00-11:00 AM: Practice distributed builds
+Tuesday, Jan 27
+•	7:00-8:00 AM: Jenkins security, user management
+•	8:00-9:00 AM: Credentials management (username/password, SSH, secret text)
+•	9:00-10:00 AM: Build notifications (email, Slack integration)
+•	10:00-11:00 AM: Jenkins backup and restore
+Wednesday, Jan 28
+•	7:00-8:00 AM: GitHub Actions intro, YAML syntax
+•	8:00-9:00 AM: Workflows, jobs, steps structure
+•	9:00-10:00 AM: Triggers (push, pull_request, schedule, workflow_dispatch)
+•	10:00-11:00 AM: Create first GitHub Actions workflow
+Thursday, Jan 29
+•	7:00-8:00 AM: GitHub Actions secrets and environment variables
+•	8:00-9:00 AM: Matrix builds, strategy
+•	9:00-10:00 AM: Reusable workflows, composite actions
+•	10:00-11:00 AM: GitHub Actions Marketplace
+Friday, Jan 30
+•	7:00-8:00 AM: Complete CI/CD pipeline with GitHub Actions
+•	8:00-9:00 AM: Deploy to cloud with GitHub Actions
+•	9:00-10:00 AM: Compare Jenkins vs GitHub Actions
+•	10:00-11:00 AM: Practice & review week 6
+Weekend: Jan 31 - Feb 1
+Saturday, Jan 31
+•	7:00-9:00 AM: Recall Jenkins advanced concepts & GitHub Actions
+•	9:00-11:00 AM: Build complete pipelines in both
+Sunday, Feb 1
+•	7:00-9:00 AM: Project: End-to-end CI/CD pipeline
+•	9:00-11:00 AM: CI/CD interview Q&A
+________________________________________
+Week 7: Docker - Part 1 (Feb 2 - Feb 8)
+Weekdays
+Monday, Feb 2
+•	7:00-8:00 AM: Docker intro, containers vs VMs, architecture
+•	8:00-9:00 AM: Docker installation (Docker Desktop/Linux)
+•	9:00-10:00 AM: Images vs containers concept
+•	10:00-11:00 AM: Basic commands (run, ps, stop, start, rm, images, rmi)
+Tuesday, Feb 3
+•	7:00-8:00 AM: Dockerfile basics (FROM, RUN, COPY, ADD)
+•	8:00-9:00 AM: CMD vs ENTRYPOINT, EXPOSE, ENV, WORKDIR
+•	9:00-10:00 AM: Building images (docker build)
+•	10:00-11:00 AM: Practice building custom images
+Wednesday, Feb 4
+•	7:00-8:00 AM: Docker volumes (data persistence)
+•	8:00-9:00 AM: Volume types (named, bind mounts, tmpfs)
+•	9:00-10:00 AM: Docker networking (bridge, host, none, custom)
+•	10:00-11:00 AM: Port mapping, network commands
+Thursday, Feb 5
+•	7:00-8:00 AM: Docker Hub (push, pull, tag)
+•	8:00-9:00 AM: Multi-stage builds
+•	9:00-10:00 AM: .dockerignore, Docker best practices
+•	10:00-11:00 AM: Optimize image size
+Friday, Feb 6
+•	7:00-8:00 AM: Containerize Node.js app
+•	8:00-9:00 AM: Containerize Python/Java app
+•	9:00-10:00 AM: Docker logs, exec, inspect commands
+•	10:00-11:00 AM: Practice & review week 7
+Weekend: Feb 7-8
+Saturday, Feb 7
+•	7:00-9:00 AM: Recall Docker concepts, commands, Dockerfile
+•	9:00-11:00 AM: Containerize 3 different applications
+Sunday, Feb 8
+•	7:00-9:00 AM: Project: Multi-tier application with Docker
+•	9:00-11:00 AM: Docker interview Q&A
+________________________________________
+Week 8: Docker Compose & Kubernetes Intro (Feb 9 - Feb 15)
+Weekdays
+Monday, Feb 9
+•	7:00-8:00 AM: Docker Compose intro, use cases
+•	8:00-9:00 AM: docker-compose.yml syntax, version
+•	9:00-10:00 AM: Services, build, image, ports
+•	10:00-11:00 AM: Create first multi-container app
+Tuesday, Feb 10
+•	7:00-8:00 AM: Compose networking, depends_on
+•	8:00-9:00 AM: Volumes in Compose, environment variables
+•	9:00-10:00 AM: Scale services (docker-compose up --scale)
+•	10:00-11:00 AM: Practice multi-container applications
+Wednesday, Feb 11
+•	7:00-8:00 AM: Kubernetes intro, why K8s, architecture
+•	8:00-9:00 AM: Master components (API server, etcd, scheduler, controller)
+•	9:00-10:00 AM: Worker components (kubelet, kube-proxy, container runtime)
+•	10:00-11:00 AM: Install Minikube/Kind, kubectl
+Thursday, Feb 12
+•	7:00-8:00 AM: Pods concept, YAML structure
+•	8:00-9:00 AM: Deployments, ReplicaSets
+•	9:00-10:00 AM: Services (ClusterIP, NodePort, LoadBalancer)
+•	10:00-11:00 AM: Deploy first app on Kubernetes
+Friday, Feb 13
+•	7:00-8:00 AM: kubectl commands (get, describe, logs, exec, delete)
+•	8:00-9:00 AM: Labels, selectors, annotations
+•	9:00-10:00 AM: Practice K8s deployments
+•	10:00-11:00 AM: Review week 8
+Weekend: Feb 14-15
+Saturday, Feb 14 (Valentine's Day)
+•	7:00-9:00 AM: Recall Docker Compose & Kubernetes basics
+•	9:00-11:00 AM: Deploy apps with Compose and K8s
+Sunday, Feb 15
+•	7:00-9:00 AM: Project: 3-tier app deployment on K8s
+•	9:00-11:00 AM: Docker Compose & K8s interview Q&A
+________________________________________
+Week 9: Kubernetes - Deep Dive (Feb 16 - Feb 22)
+Weekdays
+Monday, Feb 16
+•	7:00-8:00 AM: ConfigMaps (create, use in pods)
+•	8:00-9:00 AM: Secrets (create, mount as volume, env)
+•	9:00-10:00 AM: Environment variables in K8s
+•	10:00-11:00 AM: Practice ConfigMaps and Secrets
+Tuesday, Feb 17
+•	7:00-8:00 AM: Namespaces (create, switch, resource quotas)
+•	8:00-9:00 AM: Persistent Volumes (PV, PVC, StorageClass)
+•	9:00-10:00 AM: StatefulSets
+•	10:00-11:00 AM: Practice storage in K8s
+Wednesday, Feb 18
+•	7:00-8:00 AM: DaemonSets, Jobs, CronJobs
+•	8:00-9:00 AM: Ingress, Ingress Controllers (Nginx)
+•	9:00-10:00 AM: Load balancing with Ingress
+•	10:00-11:00 AM: Practice Ingress configurations
+Thursday, Feb 19
+•	7:00-8:00 AM: Rolling updates, rollbacks
+•	8:00-9:00 AM: Resource limits (requests, limits)
+•	9:00-10:00 AM: Liveness, Readiness, Startup probes
+•	10:00-11:00 AM: Practice deployments strategies
+Friday, Feb 20
+•	7:00-8:00 AM: Helm intro, architecture, charts
+•	8:00-9:00 AM: Install apps with Helm
+•	9:00-10:00 AM: Create custom Helm charts, templates
+•	10:00-11:00 AM: K8s troubleshooting, review week 9
+Weekend: Feb 21-22
+Saturday, Feb 21
+•	7:00-9:00 AM: Recall all Kubernetes concepts
+•	9:00-11:00 AM: Deploy complex multi-tier applications
+Sunday, Feb 22
+•	7:00-9:00 AM: Project: Production-ready K8s deployment with Helm
+•	9:00-11:00 AM: Kubernetes interview Q&A
+________________________________________
+Week 10: Terraform (Feb 23 - Mar 1)
+Weekdays
+Monday, Feb 23
+•	7:00-8:00 AM: Terraform intro, Infrastructure as Code concept
+•	8:00-9:00 AM: HCL (HashiCorp Configuration Language) syntax
+•	9:00-10:00 AM: Installation, providers (AWS, Azure, GCP)
+•	10:00-11:00 AM: Resources, data sources, variables, outputs
+Tuesday, Feb 24
+•	7:00-8:00 AM: terraform init, plan, apply, destroy workflow
+•	8:00-9:00 AM: State management (terraform.tfstate)
+•	9:00-10:00 AM: Remote state (S3 backend, state locking)
+•	10:00-11:00 AM: Practice state management
+Wednesday, Feb 25
+•	7:00-8:00 AM: Terraform modules (creating, using)
+•	8:00-9:00 AM: Module sources (local, registry, Git)
+•	9:00-10:00 AM: Workspaces (dev, staging, prod)
+•	10:00-11:00 AM: Practice modules and workspaces
+Thursday, Feb 26
+•	7:00-8:00 AM: Provision AWS EC2 instances
+•	8:00-9:00 AM: VPC, subnets, security groups with Terraform
+•	9:00-10:00 AM: S3 buckets, IAM roles/policies
+•	10:00-11:00 AM: Practice AWS provisioning
+Friday, Feb 27
+•	7:00-8:00 AM: Dependencies, count, for_each
+•	8:00-9:00 AM: Terraform best practices, formatting
+•	9:00-10:00 AM: terraform import, taint, refresh
+•	10:00-11:00 AM: Practice & review week 10
+Weekend: Feb 28 - Mar 1
+Saturday, Feb 28
+•	7:00-9:00 AM: Recall Terraform concepts, state, modules
+•	9:00-11:00 AM: Build infrastructure with Terraform
+Sunday, Mar 1
+•	7:00-9:00 AM: Project: Complete AWS infrastructure (VPC, EC2, S3, RDS)
+•	9:00-11:00 AM: Terraform interview Q&A
+________________________________________
+Week 11: Ansible (Mar 2 - Mar 8)
+Weekdays
+Monday, Mar 2
+•	7:00-8:00 AM: Ansible intro, architecture (agentless)
+•	8:00-9:00 AM: Installation, inventory files (hosts, groups)
+•	9:00-10:00 AM: Ad-hoc commands (ping, shell, copy, etc.)
+•	10:00-11:00 AM: Practice ad-hoc commands
+Tuesday, Mar 3
+•	7:00-8:00 AM: Playbooks intro, YAML syntax
+•	8:00-9:00 AM: Tasks, plays, handlers
+•	9:00-10:00 AM: Variables (host_vars, group_vars, register)
+•	10:00-11:00 AM: Write first playbook
+Wednesday, Mar 4
+•	7:00-8:00 AM: Ansible modules (apt, yum, copy, file, service, user)
+•	8:00-9:00 AM: Loops (with_items, loop), conditionals (when)
+•	9:00-10:00 AM: Templates (Jinja2)
+•	10:00-11:00 AM: Practice playbooks with loops and conditions
+Thursday, Mar 5
+•	7:00-8:00 AM: Roles in Ansible (structure, tasks, vars, templates)
+•	8:00-9:00 AM: Creating and using roles
+•	9:00-10:00 AM: Ansible Galaxy (download, install roles)
+•	10:00-11:00 AM: Practice roles
+Friday, Mar 6
+•	7:00-8:00 AM: Ansible Vault (encrypting secrets)
+•	8:00-9:00 AM: Error handling, tags, imports/includes
+•	9:00-10:00 AM: Real-world automation scenarios
+•	10:00-11:00 AM: Practice & review week 11
+Weekend: Mar 7-8
+Saturday, Mar 7
+•	7:00-9:00 AM: Recall Ansible concepts, playbooks, roles
+•	9:00-11:00 AM: Configure servers with Ansible
+Sunday, Mar 8
+•	7:00-9:00 AM: Project: Automate application deployment with Ansible
+•	9:00-11:00 AM: Ansible interview Q&A
+________________________________________
+Week 12: AWS Cloud (Mar 9 - Mar 15)
+Weekdays
+Monday, Mar 9
+•	7:00-8:00 AM: AWS intro, regions, AZs, create free tier account
+•	8:00-9:00 AM: EC2 basics (instance types, AMI, launch)
+•	9:00-10:00 AM: Security groups, key pairs, elastic IPs
+•	10:00-11:00 AM: Practice launching EC2 instances
+Tuesday, Mar 10
+•	7:00-8:00 AM: VPC (Virtual Private Cloud), subnets (public/private)
+•	8:00-9:00 AM: Route tables, Internet Gateway, NAT Gateway
+•	9:00-10:00 AM: Elastic Load Balancer (ALB, NLB, CLB)
+•	10:00-11:00 AM: Practice VPC and networking
+Wednesday, Mar 11
+•	7:00-8:00 AM: S3 (buckets, objects, storage classes)
+•	8:00-9:00 AM: S3 policies, versioning, lifecycle, encryption
+•	9:00-10:00 AM: CloudFront (CDN), Route 53 (DNS)
+•	10:00-11:00 AM: Practice S3 and CloudFront
+Thursday, Mar 12
+•	7:00-8:00 AM: IAM (users, groups, roles, policies)
+•	8:00-9:00 AM: IAM best practices, MFA, permissions
+•	9:00-10:00 AM: RDS (Relational Database Service), DynamoDB
+•	10:00-11:00 AM: Practice IAM and databases
+Friday, Mar 13
+•	7:00-8:00 AM: Lambda (serverless functions, triggers)
+•	8:00-9:00 AM: CloudWatch (logs, metrics, alarms, dashboards)
+•	9:00-10:00 AM: SNS, SQS, ECS, EKS basics
+•	10:00-11:00 AM: Practice & review week 12
+Weekend: Mar 14-15
+Saturday, Mar 14
+•	7:00-9:00 AM: Recall all AWS services
+•	9:00-11:00 AM: Build multi-tier application on AWS
+Sunday, Mar 15
+•	7:00-9:00 AM: Project: Full AWS architecture (VPC, EC2, RDS, S3, ELB)
+•	9:00-11:00 AM: AWS interview Q&A
+________________________________________
+Week 13: Monitoring & Logging (Mar 16 - Mar 22)
+Weekdays
+Monday, Mar 16
+•	7:00-8:00 AM: Prometheus intro, architecture (TSDB)
+•	8:00-9:00 AM: Installation, configuration (prometheus.yml)
+•	9:00-10:00 AM: Metrics, exporters (node_exporter, cAdvisor)
+•	10:00-11:00 AM: Practice Prometheus setup
+Tuesday, Mar 17
+•	7:00-8:00 AM: PromQL basics (queries, functions)
+•	8:00-9:00 AM: Querying metrics, aggregation
+•	9:00-10:00 AM: Alerting rules, Alertmanager
+•	10:00-11:00 AM: Practice PromQL queries
+Wednesday, Mar 18
+•	7:00-8:00 AM: Grafana intro, installation
+•	8:00-9:00 AM: Connect Grafana to Prometheus
+•	9:00-10:00 AM: Create dashboards, panels, graphs
+•	10:00-11:00 AM: Practice building dashboards
+Thursday, Mar 19
+•	7:00-8:00 AM: ELK Stack intro (Elasticsearch, Logstash, Kibana)
+•	8:00-9:00 AM: Installation, setup
+•	9:00-10:00 AM: Log aggregation, parsing, indexing
+•	10:00-11:00 AM: Practice ELK Stack
+Friday, Mar 20
+•	7:00-8:00 AM: CloudWatch (AWS monitoring)
+•	8:00-9:00 AM: Log groups, log streams, metric filters
+•	9:00-10:00 AM: CloudWatch alarms, dashboards
+•	10:00-11:00 AM: Practice & review week 13
+Weekend: Mar 21-22
+Saturday, Mar 21
+•	7:00-9:00 AM: Recall all monitoring tools (Prometheus, Grafana, ELK)
+•	9:00-11:00 AM: Set up complete monitoring stack
+Sunday, Mar 22
+•	7:00-9:00 AM: Project: Monitor application with Prometheus + Grafana
+•	9:00-11:00 AM: Monitoring & logging interview Q&A
+________________________________________
+Week 14: Mock Interviews & Scenarios (Mar 23 - Mar 29)
+Weekdays
+Monday, Mar 23
+•	7:00-8:30 AM: CI/CD pipeline scenario questions
+•	8:30-10:00 AM: Build complete pipeline (Git → Jenkins → Docker → K8s)
+•	10:00-11:00 AM: Review and improve
+Tuesday, Mar 24
+•	7:00-8:30 AM: Docker & Kubernetes troubleshooting scenarios
+•	8:30-10:00 AM: Debug failed deployments, pod issues
+•	10:00-11:00 AM: Review common errors
+Wednesday, Mar 25
+•	7:00-8:30 AM: Terraform & Ansible scenario questions
+•	8:30-10:00 AM: Write IaC for real-world scenarios
+•	10:00-11:00 AM: Review best practices
+Thursday, Mar 26
+•	7:00-8:30 AM: AWS architecture design questions
+•	8:30-10:00 AM: Design highly available, scalable systems
+•	10:00-11:00 AM: Cost optimization scenarios
+Friday, Mar 27
+•	7:00-8:30 AM: Behavioral questions preparation
+•	8:30-10:00 AM: Soft skills, communication practice
+•	10:00-11:00 AM: Full mock interview practice
+Weekend: Mar 28-29
+Saturday, Mar 28
+•	7:00-11:00 AM: Complete mock interview (4 hours - technical + behavioral)
+Sunday, Mar 29
+•	7:00-9:00 AM: Review mock interview feedback
+•	9:00-11:00 AM: Practice weak areas identified
+________________________________________
+Week 15: Final Review & Interview Prep (Mar 30 - Apr 5)
+Weekdays
+Monday, Mar 30
+•	7:00-8:30 AM: Review Linux, Git, Bash
+•	8:30-10:00 AM: Quick command exercises
+•	10:00-11:00 AM: Review Python for DevOps
+Tuesday, Mar 31
+•	7:00-8:30 AM: Review CI/CD (Jenkins, GitHub Actions)
+•	8:30-10:00 AM: Build quick pipeline
+•	10:00-11:00 AM: Review pipeline best practices
+Wednesday, Apr 1
+•	7:00-8:30 AM: Review Docker & Kubernetes
+•	8:30-10:00 AM: Deploy sample applications
+•	10:00-11:00 AM: Review troubleshooting techniques
+Thursday, Apr 2
+•	7:00-8:30 AM: Review Terraform & Ansible
+•	8:30-10:00 AM: Write quick IaC scripts
+•	10:00-11:00 AM: Review best practices
+Friday, Apr 3
+•	7:00-8:30 AM: Review AWS services
+•	8:30-10:00 AM: Review monitoring (Prometheus, Grafana)
+•	10:00-11:00 AM: Final preparation checklist
+Weekend: Apr 4-5
+Saturday, Apr 4
+•	7:00-11:00 AM: Complete end-to-end project review (all tools integrated)
+Sunday, Apr 5
+•	7:00-9:00 AM: Final mock interview
+•	9:00-11:00 AM: Confidence building, relaxation techniques
+________________________________________
+End Date: April 5, 2026
+You're interview-ready! 🚀
+________________________________________
+Daily Routine Summary
+Weekdays (Mon-Fri):
+•	6:00 AM: Wake up
+•	6:00-7:00 AM: Morning routine (exercise, breakfast, freshen up)
+•	7:00-11:00 AM: Study (4 hours)
+•	11:00 AM - 12:00 PM: Work
+Weekends (Sat-Sun):
+•	6:00 AM: Wake up
+•	6:00-7:00 AM: Morning routine
+•	7:00-11:00 AM: Recall & Practice (4 hours)
+•	Rest of day: Free time
+Total: 28 hours/week × 15 weeks = 420 hours of preparation
+
